@@ -1,0 +1,129 @@
+.row1{
+    width: 200px;
+    height: 1109px;
+    border: 1px;
+    box-shadow: 1px 1px;
+    float: left;
+}
+.row1 img {
+    border-radius: 50%;
+
+}
+
+
+.row2{
+    width: 700px;
+    height: 100px;
+    border: 1px;
+    box-shadow: 1px 1px;
+}
+
+.row1 .a {
+    inline-size: 10px;
+}
+
+input{
+    text-align: right 500px;
+}
+
+.row3{
+    background-color: rgb(176, 230, 230);
+    width: 230px;
+    height: 700px;
+    float: right;
+    border: 3px;
+    box-shadow: 3px 2px 1px;
+    color: rgb(10, 10, 10);
+    padding: 10px;
+}
+.row3 img{
+    position: relative;top: 10px;
+    width: 100px;
+    height: 150px;
+    align-items: center;
+}
+li{
+    margin-left: 50px;
+}
+
+.row4 .head{
+    height: 40px;
+    width:auto;
+    background-color: rgb(188, 247, 227);
+}
+
+.row5{
+    width: auto;
+    height: 50px;
+    background-color: rgb(188, 247, 227);
+}
+.row5 h3{
+    position: relative;top: 10px;
+}
+
+
+div sticky{
+    background-color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: sticky;
+    top: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+ .card1{
+    margin-left: 15px;
+    transition: 0.5s;
+    border-radius: 6px 6px 6px 6px;
+    padding: auto;
+} 
+.card1:hover{
+    transform: scale(1.1);
+    background-color: rgb(245, 5, 5);
+}
+.card2{
+    margin-left: 15px;
+    transition: 0.5s;
+    border-radius: 6px 6px 6px 6px;
+    padding: auto;
+} 
+.card3{
+    margin-left: 15px;
+    transition: 0.5s;
+    border-radius: 6px 6px 6px 6px;
+    padding: auto;
+} 
+.card4{
+    
+    transition: 0.5s;
+    border-radius: 6px 6px 6px 6px;
+    padding: auto;
+    margin-left: 15px;
+} 
+.asd{
+    margin-left: 50px;
+    background-color: rgb(228, 201, 253);
+}
+
+.card2:hover{
+    transform: scale(1.1);
+    background-color: rgb(12, 252, 44);
+}
+.card3:hover{
+    transform: scale(1.1);
+    background-color: rgb(248, 13, 229);
+}
+.card4:hover{
+    transform: scale(1.1);
+    background-color: rgb(34, 12, 236);
+}
+.photos .img{
+    transition: 0.5sec;
+}
+.photos .img :hover{
+    transform: scale(1.1);
+}
+
+h{
+    width: auto;
+    height: 50px;
+    background-color: rgb(188, 247, 227);
+}
